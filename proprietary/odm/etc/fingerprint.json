@@ -1,0 +1,58 @@
+[
+    {
+        "brand":"realme",
+        "project":"216B2",
+        "name":"default",
+        "product":"RMX3312",
+        "device":"RE58B2L1",
+        "model":"RMX3312",
+        "first_api_level":"31",
+        "manufacturer":"realme",
+        "base_oses": [
+            {
+              "13": "realme/RMX3312/RE58B2L1:13/TP1A.220905.001/S.bab23e-6593-6543:user/release-keys"
+            }
+        ]
+    },
+        {
+        "brand":"realme",
+        "project":"216B2",
+        "name":"tr",
+        "product":"RMX3312TR",
+        "device":"RE58B2L1",
+        "model":"RMX3312",
+        "first_api_level":"31",
+        "manufacturer":"realme"
+    },
+        {
+        "brand":"realme",
+        "project":"216B2",
+        "name":"ru",
+        "product":"RMX3312RU",
+        "device":"RE58B2L1",
+        "model":"RMX3312",
+        "first_api_level":"31",
+        "manufacturer":"realme"
+    },
+        {
+        "brand":"realme",
+        "project":"216B2",
+        "name":"t2",
+        "product":"RMX3312T2",
+        "device":"RE58B2L1",
+        "model":"RMX3312",
+        "first_api_level":"31",
+        "manufacturer":"realme"
+    },
+        {
+        "brand":"realme",
+        "project":"216B2",
+        "name":"eea",
+        "product":"RMX3312EEA",
+        "device":"RE58B2L1",
+        "model":"RMX3312",
+        "first_api_level":"31",
+        "manufacturer":"realme"
+    }
+
+]
